@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4752a384-d442-4a24-983d-b12da61fede6" name="Changes" comment="new">
-      <change beforePath="$PROJECT_DIR$/sitekinoteatr/kino/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitekinoteatr/kino/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitekinoteatr/kino/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitekinoteatr/kino/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="4752a384-d442-4a24-983d-b12da61fede6" name="Changes" comment="new files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +26,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -63,11 +66,28 @@
       <option name="project" value="LOCAL" />
       <updated>1720368121700</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new files">
+      <option name="closed" value="true" />
+      <created>1720368416165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720368416165</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new files">
+      <option name="closed" value="true" />
+      <created>1720368574329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720368574329</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
 </project>
